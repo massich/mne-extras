@@ -1,0 +1,3 @@
+[submodule "edf"]
+	path = mne_extras/edf
+	url = https://gist.github.com/bc660ef59dca0dbd53f00ed38c42f6be.git
